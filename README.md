@@ -6,7 +6,7 @@ This project is a simple language detection system built using classical Natural
 
 - CountVectorizer (Bag-of-Words model)
 - Multinomial Naive Bayes Classifier
-- Train-Test Split (80-20)
+- Train-Test Split (70-30)
 - Scikit-learn (for modeling and evaluation)
 
 ## 📁 Dataset
